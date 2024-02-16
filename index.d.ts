@@ -90,6 +90,8 @@ interface KeyboardAwareProps {
    */
   extraScrollHeight?: number
 
+  fixedScroll?: number
+
   /**
    * Sets the delay time before scrolling to new position
    *
